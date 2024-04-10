@@ -1,4 +1,4 @@
-package home.com.oop.data;
+package home.com.demo.data;
 
 public class MirCard extends Card {
 

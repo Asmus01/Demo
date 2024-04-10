@@ -1,8 +1,7 @@
-package home.com.oop;
+package home.com.demo;
 
-import home.com.oop.data.Card;
-import home.com.oop.data.MasterCard;
-import home.com.oop.data.VisaCard;
+import home.com.demo.data.Card;
+import home.com.demo.data.MasterCard;
 
 public class Oop {
 

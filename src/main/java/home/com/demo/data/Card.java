@@ -1,6 +1,4 @@
-package home.com.oop.data;
-
-import java.lang.reflect.Constructor;
+package home.com.demo.data;
 
 public abstract class Card {
 
